@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="5dp"
+    android:layout_margin="10dp"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/all_job_post_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Job Title"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:layout_margin="5dp"
+            android:padding="5dp"
+            android:maxLines="1"
+            android:textColor="@color/blue_100"
+            />
+        <TextView
+            android:id="@+id/all_job_post_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:padding="5dp"
+            android:text="31 July,2023"
+            android:textAppearance="?android:textAppearanceSmall"
+            />
+        <TextView
+            android:id="@+id/all_job_post_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:padding="5dp"
+            android:text="Description"
+            android:maxLines="3"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:id="@+id/all_job_post_skills"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:padding="5dp"
+            android:text="Skills"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:id="@+id/all_job_post_salary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="Salary"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textColor="@color/app_bg"
+            />
+
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

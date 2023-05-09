@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InsertJobPostActivity">
+    <include layout="@layout/toolbar"
+        android:id="@+id/insert_job_toolbar"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="2"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Job Title:"
+                        android:padding="7dp"
+                        android:textColor="@color/black"
+                        android:textAppearance="?android:textAppearanceMedium"
+                        />
+
+                </RelativeLayout>
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="3"
+                    android:layout_height="wrap_content">
+                    <EditText
+                        android:id="@+id/job_title"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/black"
+                        android:background="@drawable/edittext_border"
+                        android:minHeight="48dp"
+                        android:paddingLeft="8dp"
+                        android:labelFor="@+id/job_title"
+                        android:hint="Например: Java developer"
+                        android:textColorHint="@color/gray_100"
+                        />
+
+                </RelativeLayout>
+                
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="2"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Job Description:"
+                        android:textColor="@color/black"
+                        android:padding="7dp"
+                        android:textAppearance="?android:textAppearanceMedium"
+
+                        />
+
+                </RelativeLayout>
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="3"
+                    android:layout_height="wrap_content">
+                    <EditText
+                        android:id="@+id/job_description"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/black"
+                        android:background="@drawable/edittext_border"
+                        android:minHeight="48dp"
+                        android:paddingLeft="8dp"
+                        android:labelFor="@+id/job_title"
+                        android:hint="Описание работы"
+                        android:textColorHint="@color/gray_100"
+                        />
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="2"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Skills"
+                        android:textColor="@color/black"
+                        android:padding="7dp"
+                        android:textAppearance="?android:textAppearanceMedium"
+
+                        />
+
+                </RelativeLayout>
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="3"
+                    android:layout_height="wrap_content">
+                    <EditText
+                        android:id="@+id/job_skills"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/black"
+                        android:background="@drawable/edittext_border"
+                        android:minHeight="48dp"
+                        android:paddingLeft="8dp"
+                        android:labelFor="@+id/job_title"
+                        android:hint="Навыки"
+                        android:textColorHint="@color/gray_100"
+                        />
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="2"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Salary"
+                        android:padding="7dp"
+                        android:textColor="@color/black"
+                        android:textAppearance="?android:textAppearanceMedium"
+
+                        />
+
+                </RelativeLayout>
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="3"
+                    android:layout_height="wrap_content">
+                    <EditText
+                        android:id="@+id/job_salary"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/black"
+                        android:background="@drawable/edittext_border"
+                        android:minHeight="48dp"
+                        android:paddingLeft="8dp"
+                        android:labelFor="@+id/job_title"
+                        android:hint="Зарплата"
+                        android:textColorHint="@color/gray_100"
+                        />
+
+                </RelativeLayout>
+
+            </LinearLayout>
+            <Button
+                android:id="@+id/btn_job_post"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="30dp"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:text="Обупликовать вакансию"
+                android:backgroundTint="@color/blue_100"
+                />
+            </LinearLayout>
+
+
+        
+    </ScrollView>
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_ic_undraw_empty.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\ic_undraw_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_ic_round_search_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\ic_round_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable-mdpi_logout.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable-mdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable-hdpi_logout.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable-hdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable-anydpi_logout.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable-anydpi\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_ic_outline_location_on_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\ic_outline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_ic_mark.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\ic_mark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\layout_activity_insert_job_post.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\layout\\activity_insert_job_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_btn_round_green_selector.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\btn_round_green_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_ic_round_business_center_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\ic_round_business_center_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_ic_twotone_help_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\ic_twotone_help_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_bg_rounded_top.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\bg_rounded_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_bg_rounded_green_outline.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\bg_rounded_green_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_ic_round_dark_mode_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\ic_round_dark_mode_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\menu_mainmenu.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\menu\\mainmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_ic_twotone_work_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\ic_twotone_work_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\layout_alljobpost.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\layout\\alljobpost.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\layout_activity_job_details.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\layout\\activity_job_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_edittext_border.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\edittext_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_btn_round_green_pressed.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\btn_round_green_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_banner_1.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\banner_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable-xxhdpi_logout.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable-xxhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_ic_round_business_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\ic_round_business_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_ic_baseline_public_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\ic_baseline_public_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_bg_shadow_up_to_down.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\bg_shadow_up_to_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_ic_baseline_bookmark_added_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\ic_baseline_bookmark_added_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_job_post_button.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\job_post_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_ic_twotone_info_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\ic_twotone_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_bg_photo_item.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\bg_photo_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\layout_activity_all_job.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\layout\\activity_all_job.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_btn_round_green_unpressed.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\btn_round_green_unpressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_ic_photo.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\ic_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\layout_activity_post_job.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\layout\\activity_post_job.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\layout_job_post_item.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\layout\\job_post_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_bg_strip_round.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\bg_strip_round.xml"
+    },
+    {
+        "merged": "com.example.jobportallapp-merged_res-62:/layout_activity_all_job.xml.flat",
+        "source": "com.example.jobportallapp-main-64:/layout/activity_all_job.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_bg_job_type.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\bg_job_type.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_bg_shadow_bottom_to_top_transparent.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\bg_shadow_bottom_to_top_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable-xhdpi_logout.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable-xhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_ic_marked.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\ic_marked.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_ic_baseline_light_mode_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\ic_baseline_light_mode_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-merged_res-62:\\drawable_banner_1_rotate.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.0\\com.example.jobportallapp-main-64:\\drawable\\banner_1_rotate.png"
+    }
+]
