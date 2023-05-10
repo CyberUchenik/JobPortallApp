@@ -3024,6 +3024,7 @@ id browser_actions_menu_items
 id browser_actions_menu_view
 id btn_PostJob
 id btn_allJob
+id btn_apply
 id btn_job_post
 id btn_login
 id btn_login_onRegistration
@@ -3173,9 +3174,11 @@ id job_date
 id job_description
 id job_details_date
 id job_details_description
+id job_details_email
 id job_details_salary
 id job_details_skills
 id job_details_title
+id job_email
 id job_salary
 id job_skills
 id job_title

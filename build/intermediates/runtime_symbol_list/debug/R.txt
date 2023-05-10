@@ -3023,6 +3023,7 @@ int id browser_actions_menu_items 0x7f080069
 int id browser_actions_menu_view 0x7f08006a
 int id btn_PostJob 0x7f08006b
 int id btn_allJob 0x7f08006c
+int id btn_apply 0x7f08022a
 int id btn_job_post 0x7f08006d
 int id btn_login 0x7f08006e
 int id btn_login_onRegistration 0x7f08006f
@@ -3172,9 +3173,11 @@ int id job_date 0x7f0800fe
 int id job_description 0x7f0800ff
 int id job_details_date 0x7f080220
 int id job_details_description 0x7f080221
+int id job_details_email 0x7f08022c
 int id job_details_salary 0x7f080222
 int id job_details_skills 0x7f080223
 int id job_details_title 0x7f080224
+int id job_email 0x7f08022d
 int id job_salary 0x7f080100
 int id job_skills 0x7f080101
 int id job_title 0x7f080102
