@@ -4,10 +4,12 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.TextView;
 
 import androidx.appcompat.widget.Toolbar;
@@ -24,13 +26,17 @@ import org.w3c.dom.Text;
 
 public class AllJobActivity extends AppCompatActivity {
 
+
+    // Получаем ссылку на базу данных Firebase
+    DatabaseReference database = FirebaseDatabase.getInstance().getReference();
+
     private Toolbar toolbar;
 
     //Recycler
     private RecyclerView recyclerView;
+    private Button btn_apply;
 
     //Firebase
-
     private DatabaseReference mAllJobPost;
 
 
@@ -38,6 +44,8 @@ public class AllJobActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_all_job);
+
+        btn_apply = findViewById(R.id.btn_apply);
 
         toolbar = findViewById(R.id.posted_all_job);
         setSupportActionBar(toolbar);
@@ -61,7 +69,6 @@ public class AllJobActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(layoutManager);
 
     }
-
 
     @Override
     protected void onStart(){
@@ -94,15 +101,38 @@ public class AllJobActivity extends AppCompatActivity {
                     @Override
                     public void onClick(View v) {
 
-                        Intent intent = new Intent(getApplicationContext(), JobDetailsActivity.class);
+                        Intent intent = new Intent(getApplicationContext(),JobDetailsActivity.class);
 
                         intent.putExtra("title",model.getTitle());
                         intent.putExtra("date", model.getDate());
                         intent.putExtra("description",model.getDescription());
                         intent.putExtra("skills",model.getSkills());
                         intent.putExtra("salary",model.getSalary());
+                        intent.putExtra("email",model.getEmail());
 
                         startActivity(intent);
+                        btn_apply.setOnClickListener(new View.OnClickListener() {
+                            @Override
+                            public void onClick(View v) {
+                                String email = intent.getStringExtra("email");
+                                String subject = "Тема письма";
+                                String body = "Текст письма";
+
+                                Uri uri = Uri.parse("mailto:" + email)
+                                        .buildUpon()
+                                        .appendQueryParameter("subject", subject)
+                                        .appendQueryParameter("body", body)
+                                        .build();
+
+                                Intent intent = new Intent(Intent.ACTION_SENDTO, uri);
+
+                                if (intent.resolveActivity(getPackageManager()) != null) {
+                                    startActivity(intent);
+                                }
+                            }
+                        });
+
+
 
 
                     }

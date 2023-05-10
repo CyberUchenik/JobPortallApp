@@ -27,6 +27,7 @@ public class InsertJobPostActivity extends AppCompatActivity {
     private EditText job_description;
     private EditText job_skills;
     private EditText job_salary;
+    private EditText job_email;
 
     private Button btn_post_job;
 
@@ -68,6 +69,7 @@ public class InsertJobPostActivity extends AppCompatActivity {
         job_description = findViewById(R.id.job_description);
         job_skills = findViewById(R.id.job_skills);
         job_salary = findViewById(R.id.job_salary);
+        job_email = findViewById(R.id.job_email);
 
         btn_post_job = findViewById(R.id.btn_job_post);
 
@@ -78,6 +80,7 @@ public class InsertJobPostActivity extends AppCompatActivity {
                 String description = job_description.getText().toString().trim();//Описание
                 String skills = job_skills.getText().toString().trim();//Требования и навыки
                 String salary = job_salary.getText().toString().trim();//Заработок
+                String email = job_email.getText().toString().trim();//Почта
 
                 //Обработка пустых полей и выведение подробностей
                 if(TextUtils.isEmpty(title)){
@@ -92,11 +95,14 @@ public class InsertJobPostActivity extends AppCompatActivity {
                 if(TextUtils.isEmpty(salary)){
                     job_salary.setError("Заполните поле");
                 }
+                if(TextUtils.isEmpty(email)){
+                    job_email.setError("Заполните поле");
+                }
                 String id = mJobPost.push().getKey();
 
                 String date = DateFormat.getDateInstance().format(new Date());
 
-                Data data = new Data(title,description,skills,salary,id,date);//Создание объекта класса Data в котором содержится все данные о посте
+                Data data = new Data(title,description,skills,salary,id,date,email);//Создание объекта класса Data в котором содержится все данные о посте
 
                 mJobPost.child(id).setValue(data);//Передаем данные в переменную класса DatabaseReference mJobPost
 

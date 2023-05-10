@@ -6,22 +6,29 @@ public class Data {
     String description;
     String skills;
     String salary;
+    String email;
 
     String id;
     String date;
 
 
-    public Data() {
+    public Data() {}
 
-    }
-
-    public Data(String title, String description, String skills, String salary, String id, String date) {
+    public Data(String title, String description, String skills, String salary, String id, String date, String email) {
         this.title = title;
         this.description = description;
         this.skills = skills;
         this.salary = salary;
         this.id = id;
         this.date = date;
+        this.email = email;
+    }
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
     }
 
     public String getTitle() {

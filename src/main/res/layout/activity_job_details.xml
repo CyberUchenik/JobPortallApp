@@ -56,6 +56,24 @@
         android:text="Salary"
         android:textAppearance="?android:textAppearanceMedium"
         android:textColor="@color/black"/>
+    <TextView
+        android:id="@+id/job_details_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:padding="5dp"
+        android:text="Email"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="@color/black"/>
+    <Button
+        android:id="@+id/btn_apply"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:text="Откликнуться"
+        android:backgroundTint="@color/blue_100"
+        />
 
 
 </LinearLayout>
